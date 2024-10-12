@@ -1,1 +1,1 @@
-Contenido original del archivo
+Contenido modificado del archivo en segunda rama
